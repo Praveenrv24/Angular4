@@ -1,0 +1,29 @@
+footer {
+    background:#E0C0A0;
+    margin-top:50px ;
+}
+
+
+ul {
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    
+}
+
+ul li {
+    display:inline-block;
+   margin: 0 auto;
+}
+
+ul li a {
+    color:#3F4648;
+    padding:15px 30px;
+    display:block;
+    text-transform:uppercase;
+    font-weight:700;
+}
+
+ul li a:hover {
+    background: #DA8954;
+}
